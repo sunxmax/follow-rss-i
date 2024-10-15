@@ -2,9 +2,9 @@ import { defineConfig } from 'vitepress'
 import {RSSOptions, RssPlugin} from 'vitepress-plugin-rss'
 
 const RSS: RSSOptions = {
-  title: 'zero',
-  baseUrl: 'https://zero-docs.vercel.app',
-  copyright: 'Copyright (c) 2021-present, zero',
+  title: 'follow-rss-i',
+  baseUrl: 'https://follow-rss-i.vercel.app',
+  copyright: 'Copyright (c) 2021-present, follow-rss-i',
   description: ''
 }
 
