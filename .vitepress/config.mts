@@ -5,7 +5,7 @@ const RSS: RSSOptions = {
   title: 'zero',
   baseUrl: 'https://zero-docs.vercel.app',
   copyright: 'Copyright (c) 2021-present, zero',
-  description: 'feedId:67840654578173952+userId:67737338736758784'
+  description: ''
 }
 
 // https://vitepress.dev/reference/site-config
